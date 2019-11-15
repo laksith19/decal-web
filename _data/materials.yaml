@@ -119,6 +119,7 @@
 - id: a10
   name: Config Management
   slides: https://docs.google.com/presentation/d/1OfIJHu6bSfTOLLswpKnVr7oxL8R-H4aPM8LLRHuecCY/edit
+  lab: a10
   lecturer: fydai
 
 - id: a11
